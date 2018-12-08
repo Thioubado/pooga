@@ -29,7 +29,7 @@
             </p>
 
             <p>
-                <a href = "./Momo/html/menu.php">Voir le Menu</a>
+                <a href = "menu.php">Voir le Menu</a>
             </p>
 
     </body>
