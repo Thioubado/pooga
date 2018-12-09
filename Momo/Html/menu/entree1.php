@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Le Restaurant Fiasco, fruit de mer</title>
+    <title>Entrée 1 du Restaurant Fiasco sur Montpellier</title>
 </head>
 <body>
     <h1>Entrée 1</h1>
@@ -26,6 +26,10 @@
 
         <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, voluptatum libero! Quas amet repellat perspiciatis minus, aliquid itaque reiciendis quia aperiam id rem aut sapiente recusandae officia nulla quae optio.At eaque, possimus beatae esse ab nihil voluptate aliquam porro aspernatur quod, deleniti alias! Rerum non cum, necessitatibus totam dicta doloribus laboriosam iure error possimus corporis voluptatem consequatur dolores consectetur.
+        </p>
+        <p>
+            <a href="../menu.php">Revenir àl'acceuil</a>
+            <a href="https://c57.fr/doc/taf" target="_blanc">Le travail à faire</a>
         </p>
 </body>
 </html>

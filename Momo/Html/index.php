@@ -9,8 +9,8 @@
     <body>
         <h1>Restaurant le fiasco</h1>
             <p><em>Lorem ipsum dolor</em>, <strong>sit amet</strong> consectetur adipisicing elit. Laborum reiciendis, cupiditate assumenda soluta odit, iusto exercitationem vero facere, maxime excepturi necessitatibus at molestias maiores accusamus porro? Quos sed quam deserunt?<br>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur tenetur, ad voluptatibus cum quis doloremque quisquam dolorum eligendi quos amet ut debitis sequi! Vitae, eum praesentium velit non ea facilis.<br>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, et aliquid facere corrupti incidunt amet at corporis id consequatur beatae fugiat ex dolores fuga eaque consequuntur necessitatibus quibusdam. Consequuntur, repellat?
+            Lorem ipsum dolor sit amet <a href="#cuisine">cuisine </a>consectetur adipisicing elit. Aspernatur tenetur, ad voluptatibus cum quis doloremque quisquam dolorum eligendi quos amet ut debitis sequi! Vitae, eum praesentium velit non ea facilis.<br>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, <a href="menu.php#plats-chauds">plats chauds</a>et aliquid facere corrupti incidunt amet at corporis id consequatur beatae fugiat ex dolores fuga eaque consequuntur necessitatibus quibusdam. Consequuntur, repellat?
             </p>
             
             
@@ -21,7 +21,7 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas repudiandae sit dolores consectetur totam eius aliquid nam quasi. Libero vero totam ea dolor aliquam repellendus accusantium in molestiae harum quod.
             </p>
 
-        <h2>Notre cuisine</h2>
+        <h2 id="#cuisine">Notre cuisine</h2>
             <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum quasi iure quia ipsa maiores at vero ex quam eligendi hic consequuntur nam, eius animi optio a ab reiciendis, commodi architecto?
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti magni officia, porro rem nihil velit dolores nostrum? Est, quaerat omnis sunt, delectus, quam dolore nihil quasi obcaecati totam dolor ut?
@@ -29,7 +29,7 @@
             </p>
 
             <p>
-                <a href = "menu.php">Voir le Menu</a>
+                <a href="menu.php">Voir le Menu</a>
             </p>
 
     </body>
