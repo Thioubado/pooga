@@ -9,7 +9,7 @@
 
     <h2>Entrée</h2>
         <ul>
-            <li>Entrée 1</li>
+            <li><a href⁼"Menu/entree1.php">Entrée 1</a></li>
             <li>Entrée 2</li>
             <li>Entrée 3</li>
         </ul>
