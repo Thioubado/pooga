@@ -33,7 +33,7 @@
             </p>
 
             <p>
-                <a href="menu.php">Voir le Menu</a>
+                <a href="Momo/Html/menu.php">Voir le Menu</a>
             </p>
 
     </body>
