@@ -9,8 +9,11 @@
     <body>
         <h1>Restaurant le fiasco</h1>
             <!--Pour redimensionner l'image, aller sur le site https://imageresize.org/ -->
-            <a href="img/mais.jpeg" target="_blanc">
-                <img src="img/mais.jpeg" alt="photo du mais chez le fiasco" width="600" height="200">
+            
+            
+            <!-- Bonne URL d'une image avec VH (Virtual Host pooga)ou  localhost
+            -->
+            <img src="/Momo/Html/img/mais.jpeg" alt="photo du mais chez le fiasco" width="600" height="200">
             </a>
             <p><em>Lorem ipsum dolor</em>, <strong>sit amet</strong> consectetur adipisicing elit. Laborum reiciendis, cupiditate assumenda soluta odit, iusto exercitationem vero facere, maxime excepturi necessitatibus at molestias maiores accusamus porro? Quos sed quam deserunt?<br>
             Lorem ipsum dolor sit amet <a href="#cuisine">cuisine</a> consectetur adipisicing elit. Aspernatur tenetur, ad voluptatibus cum quis doloremque quisquam dolorum eligendi quos amet ut debitis sequi! Vitae, eum praesentium velit non ea facilis.<br>
@@ -33,7 +36,7 @@
             </p>
 
             <p>
-                <a href="Momo/Html/menu.php">Voir le Menu</a>
+                <a href="http://pooga/Momo/Html/menu.php">Voir le Menu</a>
             </p>
 
     </body>
