@@ -4,6 +4,20 @@
 <head>
   <meta charset="UTF-8">
   <title>Menu du restaurant le fiasco</title>
+  <!--
+  <style>
+    table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+  </style>
+  -->
 </head>
 
 <body>
@@ -50,6 +64,70 @@
   <p>
     <a href="index.php">Retour à l'accueil</a>
   </p>
+  <p>
+    <table>
+    <thead>
+      <tr>
+        <th>Nom du produit</th>
+        <th>Prix HT</th>
+        <th>Quantité</th>
+        <th>Total</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+        <td>Portable</td>
+        <td>10</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>écouteur</td>
+        <td>10</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>chargeur</td>
+        <td>10</td>
+        <td>10</td>
+      </tr>
+      <tr>
+      <td colspan="2"></td>
+        <td>Total</td>
+        <td>100</td>
+      </tr>
+      <tr>
+      <td colspan="2"></td>
+        <td>Total HT</td>
+        <td>100</td>
+      </tr>
+      </tbody>
+    </table>
+   </p>
+  <table>
+    <tr>
+      <td>Plat</td>
+      <td>Prix</td>
+    </tr>
+    <tr>
+      <td><img src="/Momo/Html/img/mais.jpeg" alt="photo du mais chez le fiasco" width="600" height="200"></td>
+      <td>Steack frite</td>
+      <td>5 euros</td>
+    </tr>
+    <tr>
+      <td>Steack</td>
+      <td>3 euros</td>
+    </tr><tr>
+      <td>Frite</td>
+      <td>2 euros</td>
+    </tr>
+    <tr>
+      <td colspan="2">Dessert</td>
+    </tr>
+    <tr>
+      <td>Mousse au chocolat</td>
+      <td>3 euros</td>
+    </tr>
+  </table>
 
 </body>
 
