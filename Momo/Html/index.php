@@ -13,8 +13,8 @@
                 <img src="img/mais.jpeg" alt="photo du mais chez le fiasco" width="600" height="200">
             </a>
             <p><em>Lorem ipsum dolor</em>, <strong>sit amet</strong> consectetur adipisicing elit. Laborum reiciendis, cupiditate assumenda soluta odit, iusto exercitationem vero facere, maxime excepturi necessitatibus at molestias maiores accusamus porro? Quos sed quam deserunt?<br>
-            Lorem ipsum dolor sit amet <a href="#cuisine">cuisine </a>consectetur adipisicing elit. Aspernatur tenetur, ad voluptatibus cum quis doloremque quisquam dolorum eligendi quos amet ut debitis sequi! Vitae, eum praesentium velit non ea facilis.<br>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, <a href="menu.php#plats-chauds">plats chauds</a>et aliquid facere corrupti incidunt amet at corporis id consequatur beatae fugiat ex dolores fuga eaque consequuntur necessitatibus quibusdam. Consequuntur, repellat?
+            Lorem ipsum dolor sit amet <a href="#cuisine">cuisine</a> consectetur adipisicing elit. Aspernatur tenetur, ad voluptatibus cum quis doloremque quisquam dolorum eligendi quos amet ut debitis sequi! Vitae, eum praesentium velit non ea facilis.<br>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, <a href="menu.php#plats-chauds">plats chauds</a> et aliquid facere corrupti incidunt amet at corporis id consequatur beatae fugiat ex dolores fuga eaque consequuntur necessitatibus quibusdam. Consequuntur, repellat?
             </p>
             
             
