@@ -24,6 +24,13 @@ tfoot {
   <h1><a href="/Momo/Html">Restaurant le fiasco</a></h1>
   <h1>Le menu</h1>
 
+  <nav>
+        <ul>
+            <li><a href="index.php">Acceuil</a></li>
+            <li><a href="menu.php">Menu</a></li>
+            <li><a href="contact.php">Contact</a></li>
+        </ul>
+    </nav>
   <h2>Entrée</h2>
   <ul>
     <li>Entrée 1</li>
