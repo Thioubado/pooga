@@ -12,7 +12,8 @@
             <h1 class="header-title">Restaurant le fiasco</h1>
             <nav class="header-nav">
             <ul>
-                <a href="index.php">Acceuil</a>
+            <!--http://pooga/Momo/Html/menu.php -->
+                <a href="/Momo/Html/index.php">Acceuil</a>
                 <a href="menu.php">Menu</a>
                 <a href="contact.php">Contact</a>
             </ul>

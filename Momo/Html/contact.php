@@ -9,13 +9,24 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <nav>
-        <ul>
-            <li><a href="index.php">Acceuil</a></li>
-            <li><a href="menu.php">Menu</a></li>
-            <li><a href="contact.php">Contact</a></li>
-        </ul>
-    </nav>
+<header class="header">
+            <h1 class="header-title">Restaurant le fiasco</h1>
+            <nav class="header-nav">
+            <ul>
+            <!--http://pooga/Momo/Html/menu.php -->
+                <a href="/Momo/Html/index.php">Acceuil</a>
+                <a href="menu.php">Menu</a>
+                <a href="contact.php">Contact</a>
+            </ul>
+            </nav>
+        
+                <!--Pour redimensionner l'image, aller sur le site https://imageresize.org/ -->
+                
+                
+                <!-- Bonne URL d'une image avec VH (Virtual Host pooga)ou  localhost
+                -->
+                <img src="/Momo/Html/img/mais.jpeg" alt="photo du mais chez le fiasco" width="600" height="200">
+        </header>
     <form action="">
         <fieldset>
             <legend>Nous contacter</legend>

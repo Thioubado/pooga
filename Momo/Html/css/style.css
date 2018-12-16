@@ -5,6 +5,9 @@ body{
 .header{
     background: grey;
     padding: 20px;
+    height: auto;
+    color:#FFFFFF;
+    font-size: 14px;
 }
 header img{
     width:100%;
@@ -15,16 +18,23 @@ header img{
 
 .header-nav{
     margin:20px 0;
+    text-align: center;
 }
 
 .header-nav a{
     padding:0 10px;
-    background: lightgreen;
+    color: inherit;
+    text-decoration:none;
 }
-
+.header-nav a:hover{
+    text-decoration:underline;
+}
 .main{
     background: lightgrey;
     padding: 20px;
+    line-height: 20px;
+    font-size: 16px;
+    
 }
 
 .footer{
