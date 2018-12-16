@@ -4,20 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Menu du restaurant le fiasco</title>
-  <!--
-  <style>
-    table,
-td {
-    border: 1px solid #333;
-}
-
-thead,
-tfoot {
-    background-color: #333;
-    color: #fff;
-}
-  </style>
-  -->
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>

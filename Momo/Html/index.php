@@ -5,18 +5,27 @@
         <meta charset ="UTF-8">
         <meta name = "description" content = "LeRestaurant vous propose un enu riche et varié de plusieurs de plats de fruit de divers horizons: l'Afrique, l'Europe, L'amérique, l'Asie, etc. ">
         <meta name = "keywords" content = "Restaurant, Fruit de mer, Montpellier">
+        <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
-        <h1>Restaurant le fiasco</h1>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/sNmpddaseK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="http://Pooga/Momo/Html/menu.php" width="800px" height="300px"></iframe>
-            <!--Pour redimensionner l'image, aller sur le site https://imageresize.org/ -->
-            
-            
-            <!-- Bonne URL d'une image avec VH (Virtual Host pooga)ou  localhost
-            -->
-            <img src="/Momo/Html/img/mais.jpeg" alt="photo du mais chez le fiasco" width="600" height="200">
-            </a>
+        <header class="header">
+            <h1 class="header-title">Restaurant le fiasco</h1>
+            <nav class="header-nav">
+            <ul>
+                <a href="index.php">Acceuil</a>
+                <a href="menu.php">Menu</a>
+                <a href="contact.php">Contact</a>
+            </ul>
+            </nav>
+        
+                <!--Pour redimensionner l'image, aller sur le site https://imageresize.org/ -->
+                
+                
+                <!-- Bonne URL d'une image avec VH (Virtual Host pooga)ou  localhost
+                -->
+                <img src="/Momo/Html/img/mais.jpeg" alt="photo du mais chez le fiasco" width="600" height="200">
+        </header>
+        <article class="main">
             <p><em>Lorem ipsum dolor</em>, <strong>sit amet</strong> consectetur adipisicing elit. Laborum reiciendis, cupiditate assumenda soluta odit, iusto exercitationem vero facere, maxime excepturi necessitatibus at molestias maiores accusamus porro? Quos sed quam deserunt?<br>
             Lorem ipsum dolor sit amet <a href="#cuisine">cuisine</a> consectetur adipisicing elit. Aspernatur tenetur, ad voluptatibus cum quis doloremque quisquam dolorum eligendi quos amet ut debitis sequi! Vitae, eum praesentium velit non ea facilis.<br>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, <a href="menu.php#plats-chauds">plats chauds</a> et aliquid facere corrupti incidunt amet at corporis id consequatur beatae fugiat ex dolores fuga eaque consequuntur necessitatibus quibusdam. Consequuntur, repellat?
@@ -40,6 +49,9 @@
             <p>
                 <a href="http://pooga/Momo/Html/menu.php">Voir le Menu</a>
             </p>
-
+            </article>
+            <footer class="footer">
+                1278 rue des codeurs casa maroc
+            </footer>
     </body>
 </html>

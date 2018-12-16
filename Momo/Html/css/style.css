@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+.header{
+    background: grey;
+    padding: 20px;
+}
+header img{
+    width:100%;
+}
+.header-title{
+    margin-top:0;
+}
+
+.header-nav{
+    margin:20px 0;
+}
+
+.header-nav a{
+    padding:0 10px;
+    background: lightgreen;
+}
+
+.main{
+    background: lightgrey;
+    padding: 20px;
+}
+
+.footer{
+    background: grey;
+    padding: 10px 20px;
+}
