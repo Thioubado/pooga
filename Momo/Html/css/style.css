@@ -3,6 +3,7 @@ body{
 }
 
 .header{
+    position: fixed;
     background: grey;
     padding: 20px;
     height: auto;
@@ -13,12 +14,17 @@ header img{
     width:100%;
 }
 .header-title{
-    margin-top:0;
+    margin:0;
+    font-size: italic;
+    text-transform: capitalize;
+    float: left;
 }
 
 .header-nav{
-    margin:20px 0;
+    margin:0;
     text-align: center;
+    float: right;
+    margin-bottom: 8px;
 }
 
 .header-nav a{
@@ -40,4 +46,12 @@ header img{
 .footer{
     background: grey;
     padding: 10px 20px;
+}
+.alignleft{
+    float: left;
+    margin-right: 15px;
+}
+.alignright{
+    float: right;
+    margin-left:15px;
 }

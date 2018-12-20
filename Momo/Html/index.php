@@ -27,7 +27,7 @@
                 <img src="/Momo/Html/img/mais.jpeg" alt="photo du mais chez le fiasco" width="600" height="200">
         </header>
         <article class="main">
-            <p><em>Lorem ipsum dolor</em>, <strong>sit amet</strong> consectetur adipisicing elit. Laborum reiciendis, cupiditate assumenda soluta odit, iusto exercitationem vero facere, maxime excepturi necessitatibus at molestias maiores accusamus porro? Quos sed quam deserunt?<br>
+            <p><img src="https://via.placeholder.com/150" alt="source placeholder.com" class="alignleft"><em>Lorem ipsum dolor</em>, <strong>sit amet</strong> consectetur adipisicing elit. Laborum reiciendis, cupiditate assumenda soluta odit, iusto exercitationem vero facere, maxime excepturi necessitatibus at molestias maiores accusamus porro? Quos sed quam deserunt?<br>
             Lorem ipsum dolor sit amet <a href="#cuisine">cuisine</a> consectetur adipisicing elit. Aspernatur tenetur, ad voluptatibus cum quis doloremque quisquam dolorum eligendi quos amet ut debitis sequi! Vitae, eum praesentium velit non ea facilis.<br>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, <a href="menu.php#plats-chauds">plats chauds</a> et aliquid facere corrupti incidunt amet at corporis id consequatur beatae fugiat ex dolores fuga eaque consequuntur necessitatibus quibusdam. Consequuntur, repellat?
             </p>
@@ -38,6 +38,7 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum deleniti amet dicta, porro dignissimos fugit eaque maiores numquam, ipsam officiis temporibus non adipisci repellat asperiores est et doloribus, nostrum fuga.
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque ratione labore unde aspernatur distinctio impedit velit aliquid non, saepe at ea incidunt qui, dolores cum illum esse, optio temporibus aut!
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas repudiandae sit dolores consectetur totam eius aliquid nam quasi. Libero vero totam ea dolor aliquam repellendus accusantium in molestiae harum quod.
+            <img src="https://via.placeholder.com/150" alt="source placeholder.com" class="alignright">
             </p>
 
         <h2 id="#cuisine">Notre cuisine</h2>
