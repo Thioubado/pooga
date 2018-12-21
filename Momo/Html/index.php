@@ -5,7 +5,7 @@
         <meta charset ="UTF-8">
         <meta name = "description" content = "LeRestaurant vous propose un enu riche et varié de plusieurs de plats de fruit de divers horizons: l'Afrique, l'Europe, L'amérique, l'Asie, etc. ">
         <meta name = "keywords" content = "Restaurant, Fruit de mer, Montpellier">
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="/Momo/Html/css/style.css">
     </head>
     <body>
         <header class="header">
